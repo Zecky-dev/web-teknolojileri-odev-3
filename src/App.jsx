@@ -5,7 +5,7 @@ import "./App.css";
 const Yazi = ({ yazi }) => (
   <li key={yazi.id}>
     <span>
-      <a href={yazi.url}>{yazi.baslik}</a>,
+      <a href={yazi.url} target="_blank">{yazi.baslik}</a>,
     </span>
     <span>
       <b>Yazar:</b> {yazi.yazar},{" "}
