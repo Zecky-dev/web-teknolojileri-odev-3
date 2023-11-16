@@ -60,7 +60,7 @@ function App() {
   const yaziListesi = [
     {
       baslik: "React Öğreniyorum",
-      url: "www.sdu.edu.tr",
+      url: "https://www.sdu.edu.tr",
       yazar: "Sinan Yüksel",
       yorum_sayisi: 3,
       puan: 4,
@@ -68,7 +68,7 @@ function App() {
     },
     {
       baslik: "Web Teknolojileri ve Programlama",
-      url: "wwww.google.com.tr",
+      url: "https://wwww.google.com.tr",
       yazar: "Asım Yüksel",
       yorum_sayisi: 2,
       puan: 5,
@@ -76,7 +76,7 @@ function App() {
     },
     {
       baslik: "Web Teknolojileri ve Programlama",
-      url: "wwww.google.com.tr",
+      url: "https://wwww.google.com.tr",
       yazar: "Asım Yüksel",
       yorum_sayisi: 2,
       puan: 5,
